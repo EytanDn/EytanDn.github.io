@@ -6,6 +6,8 @@ layout: default
 tags: Home
 ---
 
+Self-taught software engineer
+
 - Python 🐍 CV 📹 ML 🤖 cookery 🍲
 
 [**See latest blog posts →**]({{ site.baseurl }}/blog)
